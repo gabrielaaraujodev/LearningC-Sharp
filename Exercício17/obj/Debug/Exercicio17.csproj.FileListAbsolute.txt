@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\bin\Debug\Exercício17.exe.config
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\bin\Debug\Exercício17.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\bin\Debug\Exercício17.pdb
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\obj\Debug\Exercicio17.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\obj\Debug\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\obj\Debug\Exercício17.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercício17\obj\Debug\Exercício17.pdb
