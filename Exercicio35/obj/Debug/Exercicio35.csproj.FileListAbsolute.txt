@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\bin\Debug\Exercicio35.exe.config
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\bin\Debug\Exercicio35.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\bin\Debug\Exercicio35.pdb
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\obj\Debug\Exercicio35.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\obj\Debug\Exercicio35.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\obj\Debug\Exercicio35.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio35\obj\Debug\Exercicio35.pdb

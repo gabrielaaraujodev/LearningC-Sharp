@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\bin\Debug\Exercicio22.exe.config
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\bin\Debug\Exercicio22.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\bin\Debug\Exercicio22.pdb
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\obj\Debug\Exercicio22.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\obj\Debug\Exercicio22.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\obj\Debug\Exercicio22.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp2\Exercicio22\obj\Debug\Exercicio22.pdb
